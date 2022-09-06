@@ -1,0 +1,175 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.top-container{
+  background-color: #F4EEFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.upper-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.title{
+  padding-bottom: 20px;
+}
+
+.middle-container{
+  background-color: #DCD6F7;
+}
+
+.bottom-container{
+  background-color: #A6B1E1;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 3;
+}
+
+h2{
+  margin-top: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  margin-top: 0;
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+p{
+  margin: 20px;
+  font-size: 18px;
+}
+
+.Jeans{
+  border-radius: 100%;
+  margin-top: 100px;
+}
+.computer{
+  /* border-radius: 100%; */
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+
+.language{
+  /* border-radius: 100%; */
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.experience{
+  margin: 50px auto 100px auto;
+    font-size: 18px;
+}
+
+.immigration{
+  font-size: 18px;
+  margin: 40px;
+}
+
+.immigration-content{
+line-height: 2;
+}
+
+
+.skills{
+  /* margin: 100px auto 100px auto; */
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: left;
+  height: 2;
+
+}
+.table{
+  margin:auto;
+}
+
+.hr{
+  border-top:10px dotted #EAF6F6;
+  width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.red{
+  height: 100px;
+  width: 100px;
+  backgroun-color:red;
+}
+
+.blue{
+  height: 100px;
+  width: 100px;
+  backgroun-color:blue;
+}
+
+.yellow{
+  height: 100px;
+  width: 100px;
+  backgroun-color:yellow;
+}
